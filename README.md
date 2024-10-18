@@ -1,4 +1,6 @@
-## Hi there 👋
+# 0Reab
+
+**`Developer & Hacker in Progress`**
 
 #### Tryhackme - https://tryhackme.com/r/p/KernelCrusader
 <img src="https://tryhackme-badges.s3.amazonaws.com/KernelCrusader.png" alt="Your Image Badge" />
@@ -12,3 +14,5 @@
 <img align="left" alt="Bash" width="45px" style="padding-right:10px;" src="https://upload.vectorlogo.zone/logos/linux/images/23617771-2b68-44e4-9860-2fecfd8167dd.svg" />
 <img align="left" alt="Bash" width="45px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" />
 <br />
+
+### 
