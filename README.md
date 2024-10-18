@@ -6,6 +6,7 @@
 <br />
 
 ### Languages and tools
-<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-<br />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/353478/bash-icon.svg" />
+<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/353478/bash-icon.svg" />
+<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/353478/bash-icon.svg" />
+<br />
