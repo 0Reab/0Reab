@@ -3,8 +3,6 @@
 #### Tryhackme - https://tryhackme.com/r/p/KernelCrusader
 <img src="https://tryhackme-badges.s3.amazonaws.com/KernelCrusader.png" alt="Your Image Badge" />
 
-<br />
-
 #### Codewars - https://www.codewars.com/users/Reab9
 <img src="https://www.codewars.com/users/Reab9/badges/large" />
 
