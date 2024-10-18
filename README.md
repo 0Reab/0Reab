@@ -8,6 +8,6 @@
 ### Languages and tools
 <img align="left" alt="Bash" width="40px" style="padding-right:10px;" src="https://www.svgrepo.com/show/353478/bash-icon.svg" />
 <img align="left" alt="Bash" width="40px" style="padding-right:10px;" src="https://www.svgrepo.com/show/452091/python.svg" />
-<img align="left" alt="Bash" width="40px" style="padding-right:10px;" src="https://www.svgrepo.com/show/330767/kalilinux.svg" />
+<img align="left" alt="Bash" width="40px" style="padding-right:10px;" src="https://upload.vectorlogo.zone/logos/linux/images/23617771-2b68-44e4-9860-2fecfd8167dd.svg" />
 <img align="left" alt="Bash" width="40px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" />
 <br />
