@@ -10,4 +10,5 @@
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/452091/python.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/330767/kalilinux.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/448236/linux.svg" />
+<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" />
 <br />
