@@ -6,7 +6,7 @@
 
 #
 #### Openbugbounty -https://www.openbugbounty.org/researchers/reab/
-<img src="https://imgur.com/a/DvwGmH2" alt="bugbounty" />
+<img src="https://i.imgur.com/GGIhpHD.png" alt="bugbounty" />
 
 #### Tryhackme - https://tryhackme.com/r/p/KernelCrusader
 <img src="https://tryhackme-badges.s3.amazonaws.com/KernelCrusader.png" alt="Your Image Badge" />
