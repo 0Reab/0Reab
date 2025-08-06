@@ -5,7 +5,7 @@
 #### Learning and exploring the world of tech.
 
 #
-#### Openbugbounty -https://www.openbugbounty.org/researchers/reab/
+#### Openbugbounty - https://www.openbugbounty.org/researchers/reab/
 <img src="https://i.imgur.com/GGIhpHD.png" alt="bugbounty" />
 
 #### Tryhackme - https://tryhackme.com/r/p/KernelCrusader
