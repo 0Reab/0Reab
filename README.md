@@ -1,6 +1,6 @@
 # 0Reab
 
-**`Developer & Hacker in Progress`**
+**`Backend and CyberSec enthusiast`**
 
 #### Learning and exploring the world of tech.
 
