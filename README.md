@@ -5,6 +5,8 @@
 #### Learning and exploring the world of tech.
 
 #
+#### Intigriti - https://app.intigriti.com/researcher/profile/reab
+
 #### Openbugbounty - https://www.openbugbounty.org/researchers/reab/
 <img src="https://i.imgur.com/GGIhpHD.png" alt="bugbounty" />
 
